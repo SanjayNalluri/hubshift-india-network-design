@@ -4,7 +4,7 @@
 
 A capacitated facility-location **MILP** (PuLP/CBC) that redesigns the distribution network of an edible-oil company at market-leader scale, serving India's **52 million-plus cities** from **27 candidate warehouse sites**. Every input is traced to a public source, and the one input that isn't (per-site overhead) is swept rather than assumed.
 
-**▶ Live app:** *([add your Streamlit link here](https://india-gst-network.streamlit.app/))*. Change overhead, freight rate, or knock out a DC and watch the network re-optimize.
+**▶ [Live app](https://india-gst-network.streamlit.app)**: change overhead, freight rate, or knock out a DC and watch the network re-optimize.
 
 ---
 
