@@ -1,0 +1,9 @@
+network,overhead_cr,DCs,cost_saving_%,safety_stock_vs_pre_%
+Pre-GST (state-wise),-,18,0.0,0.0
+Post-GST (overhead ₹0.0 cr),0.0,21,27.526424438622158,9.615731301363017
+Post-GST (overhead ₹0.25 cr),0.25,19,24.422696635445483,7.8029249808677426
+Post-GST (overhead ₹0.5 cr),0.5,17,22.85867942157932,4.731832728846808
+Post-GST (overhead ₹1.0 cr),1.0,14,21.750351634733043,-3.1118351288850987
+Post-GST (overhead ₹2.0 cr),2.0,11,23.329263214594707,-10.599769488112775
+Reference: 1 national DC,-,1,,-69.04656148463806
+Reference: 1 DC per city,-,52,,41.27755973293527

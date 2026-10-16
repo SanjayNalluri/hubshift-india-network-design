@@ -1,0 +1,11 @@
+parameter,value,unit,source,note
+KG_PER_CAPITA,19.7,kg/person/yr,"NITI Aayog, 'Pathways and Strategies for Accelerating Growth in Edible Oils Towards Atmanirbharta' (2024)",Edible oil consumption per capita
+MARKET_SHARE,0.183,fraction,"ICICI Direct, Adani Wilmar IPO Review (28 Jan 2022)",Market leader share FY21 (Fortune & other brands)
+NATIONAL_T,22000000.0,t/yr,"ICICI Direct, Adani Wilmar IPO Review (28 Jan 2022)",India edible oil consumption ~22 mn MT (2019)
+DEPOT_SQFT,1700000.0,sq ft,"ICICI Direct, Adani Wilmar IPO Review (28 Jan 2022)",Leader's depot space 1.6-1.8 mn sq ft (midpoint)
+N_DEPOTS,86.0,count,"ICICI Direct, Adani Wilmar IPO Review (28 Jan 2022)",85-88 depots (midpoint)
+SQFT_SMALL,20000.0,sq ft,Derived: DEPOT_SQFT / N_DEPOTS,Average depot size of market leader
+SQFT_LARGE,100000.0,sq ft,"Knight Frank, India Warehousing Market Report 2018",Minimum area for infrastructure status
+OPEX_RATIO,0.9231,ratio,IIM figures cited in Knight Frank 2018 (handling 24% vs warehousing 26% of logistics cost),Operating cost as multiple of rent
+FREIGHT_RS_TKM,5.0,INR/tonne-km,TruckGuru (Oct 2026): 32ft 16-18T trucks ~INR 78-91/km => ~4.7-5.3 per t-km,Base case; sensitivity range below
+FREIGHT_RS_TKM_LOW,1.51,INR/tonne-km,DPIIT study (Sep 2025) via Maritime Gateway,Heavy trailers >55t bulk; lower bound for sensitivity

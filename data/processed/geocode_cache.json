@@ -1,0 +1,292 @@
+{
+ "Mumbai, Maharashtra, India": {
+  "lat": 19.054999,
+  "lon": 72.8692035,
+  "found": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India"
+ },
+ "Delhi, Delhi, India": {
+  "lat": 28.6664535,
+  "lon": 77.2169781,
+  "found": "Delhi, Old Delhi, Delhi, India"
+ },
+ "Kolkata, West Bengal, India": {
+  "lat": 22.5726459,
+  "lon": 88.3638953,
+  "found": "Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, India"
+ },
+ "Chennai, Tamil Nadu, India": {
+  "lat": 13.0800915,
+  "lon": 80.2807978,
+  "found": "Chennai, Chennai Metropolitan Area, Chennai District, Tamil Nadu, India"
+ },
+ "Bengaluru, Karnataka, India": {
+  "lat": 12.9767936,
+  "lon": 77.590082,
+  "found": "Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India"
+ },
+ "Hyderabad, Telangana, India": {
+  "lat": 17.360589,
+  "lon": 78.4740613,
+  "found": "Hyderabad, Bahadurpura mandal, Hyderabad, Telangana, India"
+ },
+ "Ahmedabad, Gujarat, India": {
+  "lat": 23.0215374,
+  "lon": 72.5800568,
+  "found": "Ahmedabad, Gujarat, 380001, India"
+ },
+ "Pune, Maharashtra, India": {
+  "lat": 18.5213738,
+  "lon": 73.8545071,
+  "found": "Pune, Pune City Subdistrict, Pune, Maharashtra, 411001, India"
+ },
+ "Surat, Gujarat, India": {
+  "lat": 21.2094892,
+  "lon": 72.8317058,
+  "found": "Surat, Katargam Taluka, Surat, Gujarat, 395008, India"
+ },
+ "Jaipur, Rajasthan, India": {
+  "lat": 26.9154576,
+  "lon": 75.8189817,
+  "found": "Jaipur, Jaipur Municipal Corporation, Jaipur Tehsil, Jaipur, Rajasthan, 302001, India"
+ },
+ "Kanpur, Uttar Pradesh, India": {
+  "lat": 26.4609135,
+  "lon": 80.3217588,
+  "found": "Kanpur, Kanpur Nagar, Uttar Pradesh, 208012, India"
+ },
+ "Lucknow, Uttar Pradesh, India": {
+  "lat": 26.8381,
+  "lon": 80.9346001,
+  "found": "Lucknow, Uttar Pradesh, 226027, India"
+ },
+ "Nagpur, Maharashtra, India": {
+  "lat": 21.1498134,
+  "lon": 79.0820556,
+  "found": "Nagpur City, Nagpur Urban Taluka, Nagpur, Maharashtra, India"
+ },
+ "Ghaziabad, Uttar Pradesh, India": {
+  "lat": 28.7749966,
+  "lon": 77.4586967,
+  "found": "Ghaziabad, Uttar Pradesh, India"
+ },
+ "Indore, Madhya Pradesh, India": {
+  "lat": 22.7203616,
+  "lon": 75.8681996,
+  "found": "Indore, Juni Indore Tahsil, Indore, Madhya Pradesh, 452001, India"
+ },
+ "Coimbatore, Tamil Nadu, India": {
+  "lat": 11.0018115,
+  "lon": 76.9628425,
+  "found": "Coimbatore, Coimbatore North, Coimbatore, Tamil Nadu, 641001, India"
+ },
+ "Kochi, Kerala, India": {
+  "lat": 9.9679032,
+  "lon": 76.2444378,
+  "found": "Kochi, Ernakulam, Kerala, 682001, India"
+ },
+ "Patna, Bihar, India": {
+  "lat": 25.6093239,
+  "lon": 85.1235252,
+  "found": "Patna, Patna Rural, Patna, Bihar, India"
+ },
+ "Kozhikode, Kerala, India": {
+  "lat": 11.2450558,
+  "lon": 75.7754716,
+  "found": "Kozhikode, Kerala, 673001, India"
+ },
+ "Bhopal, Madhya Pradesh, India": {
+  "lat": 23.2584857,
+  "lon": 77.401989,
+  "found": "Bhopal, Huzur Tahsil, Bhopal, Madhya Pradesh, 462001, India"
+ },
+ "Thrissur, Kerala, India": {
+  "lat": 10.4786969,
+  "lon": 76.2736512,
+  "found": "Thrissur, Kerala, India"
+ },
+ "Vadodara, Gujarat, India": {
+  "lat": 22.2973142,
+  "lon": 73.1942567,
+  "found": "Vadodara, Vadodara Rural Taluka, Vadodara, Gujarat, 390001, India"
+ },
+ "Agra, Uttar Pradesh, India": {
+  "lat": 27.1752554,
+  "lon": 78.0098161,
+  "found": "Agra, Uttar Pradesh, 280001, India"
+ },
+ "Visakhapatnam, Andhra Pradesh, India": {
+  "lat": 17.6935526,
+  "lon": 83.2921297,
+  "found": "Visakhapatnam, Visakhapatnam Urban, Visakhapatnam District, Andhra Pradesh, 530001, India"
+ },
+ "Malappuram, Kerala, India": {
+  "lat": 11.1065685,
+  "lon": 76.1101742,
+  "found": "Malappuram, Kerala, India"
+ },
+ "Thiruvananthapuram, Kerala, India": {
+  "lat": 8.4882267,
+  "lon": 76.947551,
+  "found": "Thiruvananthapuram, Kerala, 695001, India"
+ },
+ "Kannur, Kerala, India": {
+  "lat": 11.8763836,
+  "lon": 75.3737973,
+  "found": "Kannur, Kerala, 670004, India"
+ },
+ "Ludhiana, Punjab, India": {
+  "lat": 30.9090157,
+  "lon": 75.851601,
+  "found": "Ludhiana, Ludhiana (West) Tahsil, Ludhiana, Punjab, 141001, India"
+ },
+ "Nashik, Maharashtra, India": {
+  "lat": 20.0112475,
+  "lon": 73.7902364,
+  "found": "Nashik, Nashik Subdistrict, Nashik, Maharashtra, 422001, India"
+ },
+ "Vijayawada, Andhra Pradesh, India": {
+  "lat": 16.5115306,
+  "lon": 80.6160469,
+  "found": "Vijayawada, Vijayawada (urban) Mandal, NTR District, Andhra Pradesh, 520001, India"
+ },
+ "Madurai, Tamil Nadu, India": {
+  "lat": 9.9261153,
+  "lon": 78.1140983,
+  "found": "Madurai, Madurai South, Madurai, Tamil Nadu, India"
+ },
+ "Varanasi, Uttar Pradesh, India": {
+  "lat": 25.3356491,
+  "lon": 83.0076292,
+  "found": "Varanasi, Sadar, Varanasi, Uttar Pradesh, 221001, India"
+ },
+ "Meerut, Uttar Pradesh, India": {
+  "lat": 29.0018557,
+  "lon": 77.7679671,
+  "found": "Meerut, Uttar Pradesh, India"
+ },
+ "Faridabad, Haryana, India": {
+  "lat": 28.4031478,
+  "lon": 77.3105561,
+  "found": "Faridabad, Haryana, 121001, India"
+ },
+ "Rajkot, Gujarat, India": {
+  "lat": 22.3053263,
+  "lon": 70.8028377,
+  "found": "Rajkot, Rajkot East Taluka, Rajkot, Gujarat, 360001, India"
+ },
+ "Jamshedpur, Jharkhand, India": {
+  "lat": 22.8015194,
+  "lon": 86.2029579,
+  "found": "Jamshedpur, Golmuri-Cum-Jugsalai, East Singhbhum, Jharkhand, 831001, India"
+ },
+ "Jabalpur, Madhya Pradesh, India": {
+  "lat": 23.1701522,
+  "lon": 79.9324505,
+  "found": "Jabalpur, Ranjhi Tahsil, Jabalpur, Madhya Pradesh, 482001, India"
+ },
+ "Srinagar, Jammu and Kashmir, India": {
+  "lat": 34.0747444,
+  "lon": 74.8204443,
+  "found": "Srinagar, Srinagar (South), Srinagar, Jammu and Kashmir, 190001, India"
+ },
+ "Asansol, West Bengal, India": {
+  "lat": 23.686864,
+  "lon": 86.9745586,
+  "found": "Asansol, Asansol Kulti Township, Paschim Bardhaman, West Bengal, India"
+ },
+ "Virar, Maharashtra, India": {
+  "lat": 19.4497996,
+  "lon": 72.8120613,
+  "found": "Virar, Vasai-Virar, Vasai Subdistrict, Palghar, Maharashtra, 401303, India"
+ },
+ "Prayagraj, Uttar Pradesh, India": {
+  "lat": 25.4381302,
+  "lon": 81.8338005,
+  "found": "Prayagraj, Allahabad, Prayagraj, Uttar Pradesh, 211001, India"
+ },
+ "Dhanbad, Jharkhand, India": {
+  "lat": 23.7952809,
+  "lon": 86.4309638,
+  "found": "Dhanbad, Dhanbad-Cum-Kenduadih-Cum-Jagata, Dhanbad, Jharkhand, 826001, India"
+ },
+ "Aurangabad, Maharashtra, India": {
+  "lat": 19.877263,
+  "lon": 75.3390241,
+  "found": "Chhatrapati Sambhajinagar, Maharashtra, 431002, India"
+ },
+ "Amritsar, Punjab, India": {
+  "lat": 31.6356659,
+  "lon": 74.8787496,
+  "found": "Amritsar, Amritsar I Tahsil, Amritsar, Punjab, 143001, India"
+ },
+ "Jodhpur, Rajasthan, India": {
+  "lat": 26.2967719,
+  "lon": 73.0351433,
+  "found": "Jodhpur, Jodhpur Tehsil, Jodhpur, Rajasthan, India"
+ },
+ "Ranchi, Jharkhand, India": {
+  "lat": 23.3700501,
+  "lon": 85.3250387,
+  "found": "Ranchi, Kanke, Ranchi, Jharkhand, 834001, India"
+ },
+ "Raipur, Chhattisgarh, India": {
+  "lat": 21.2380912,
+  "lon": 81.6336993,
+  "found": "Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 493332, India"
+ },
+ "Kollam, Kerala, India": {
+  "lat": 8.8870533,
+  "lon": 76.5906696,
+  "found": "Kollam, Kerala, 691001, India"
+ },
+ "Gwalior, Madhya Pradesh, India": {
+  "lat": 26.2037247,
+  "lon": 78.1573628,
+  "found": "Gwalior, Gird Tahsil, Gwalior, Madhya Pradesh, 474001, India"
+ },
+ "Bhilai, Chhattisgarh, India": {
+  "lat": 21.2120677,
+  "lon": 81.3732849,
+  "found": "Bhilai, Durg Tahsil, Durg, Chhattisgarh, 490023, India"
+ },
+ "Tiruchirappalli, Tamil Nadu, India": {
+  "lat": 10.8071144,
+  "lon": 78.6880939,
+  "found": "Tiruchirappalli, Tamil Nadu, India"
+ },
+ "Kota, Rajasthan, India": {
+  "lat": 25.1737019,
+  "lon": 75.8574194,
+  "found": "Kota, Ladpura Tehsil, Kota, Rajasthan, 324001, India"
+ },
+ "Bhiwandi, Maharashtra, India": {
+  "lat": 19.3025562,
+  "lon": 73.0588072,
+  "found": "Bhiwandi, Bhiwandi Subdistrict, Thane, Maharashtra, 421302, India"
+ },
+ "Gurugram, Haryana, India": {
+  "lat": 28.4646148,
+  "lon": 77.0299194,
+  "found": "Gurugram, Haryana, India"
+ },
+ "Vapi, Gujarat, India": {
+  "lat": 20.3735482,
+  "lon": 72.9084376,
+  "found": "Vapi, Daman Road, Vapi, Vapi Taluka, Valsad, Gujarat, 396191, India"
+ },
+ "Rajpura, Punjab, India": {
+  "lat": 30.4776857,
+  "lon": 76.5937658,
+  "found": "Rajpura, Rajpura Tahsil, Patiala, Punjab, 140401, India"
+ },
+ "Bhubaneswar, Odisha, India": {
+  "lat": 20.2602964,
+  "lon": 85.8394521,
+  "found": "Bhubaneswar, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751001, India"
+ },
+ "Guwahati, Assam, India": {
+  "lat": 26.1805978,
+  "lon": 91.753943,
+  "found": "Guwahati, Kamrup Metropolitan, Assam, 781001, India"
+ }
+}

@@ -1,0 +1,28 @@
+site,state_code,geocode_name,rent_market,rent_type,state_wh,note
+Mumbai (Bhiwandi),MH,Bhiwandi,Mumbai,verified,True,
+Pune,MH,Pune,Pune,verified,False,
+Nagpur,MH,Nagpur,Nagpur,verified,False,
+Delhi,DL,Delhi,NCR,verified,True,
+Gurugram (NCR),HR,Gurugram,NCR,verified,True,
+Kolkata,WB,Kolkata,Kolkata,verified,True,
+Chennai,TN,Chennai,Chennai,verified,True,
+Coimbatore,TN,Coimbatore,Coimbatore,verified,False,
+Bengaluru,KA,Bengaluru,Bengaluru,verified,True,
+Hyderabad,TG,Hyderabad,Hyderabad,verified,True,
+Ahmedabad,GJ,Ahmedabad,Ahmedabad,verified,True,
+Surat,GJ,Surat,Surat,verified,False,
+Vadodara,GJ,Vadodara,Vadodara,verified,False,
+Vapi,GJ,Vapi,Vapi,verified,False,
+Jaipur,RJ,Jaipur,Jaipur,verified,True,
+Lucknow,UP,Lucknow,Lucknow,verified,True,
+Indore,MP,Indore,Indore,verified,True,
+Patna,BR,Patna,Patna,verified,True,
+Ludhiana,PB,Ludhiana,Ludhiana,verified,True,
+Ambala-Rajpura,PB,Rajpura,Ambala-Rajpura,verified,False,
+Bhubaneswar,OD,Bhubaneswar,Bhubaneswar,verified,False,
+Guwahati,AS,Guwahati,Guwahati,verified,False,
+Kochi,KL,Kochi,Coimbatore,proxy,True,No Knight Frank rent table for this state; rent borrowed from nearest covered market (Coimbatore)
+Vijayawada,AP,Vijayawada,Hyderabad,proxy,True,No Knight Frank rent table for this state; rent borrowed from nearest covered market (Hyderabad)
+Ranchi,JH,Ranchi,Patna,proxy,True,No Knight Frank rent table for this state; rent borrowed from nearest covered market (Patna)
+Raipur,CG,Raipur,Nagpur,proxy,True,No Knight Frank rent table for this state; rent borrowed from nearest covered market (Nagpur)
+Srinagar,JK,Srinagar,Ludhiana,proxy,True,No Knight Frank rent table for this state; rent borrowed from nearest covered market (Ludhiana)

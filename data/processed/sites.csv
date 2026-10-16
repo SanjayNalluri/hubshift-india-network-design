@@ -1,0 +1,28 @@
+site,state_code,geocode_name,rent_market,rent_type,state_wh,note,rent,cap_small_t,fixed_small_cr,cap_large_t,fixed_large_cr,lat,lon,state_ok
+Mumbai (Bhiwandi),MH,Bhiwandi,Mumbai,verified,True,,23.5,47365,1.085,236824,5.423,19.3025562,73.0588072,True
+Pune,MH,Pune,Pune,verified,False,,26.0,47365,1.2,236824,6.0,18.5213738,73.8545071,True
+Nagpur,MH,Nagpur,Nagpur,verified,False,,17.0,47365,0.785,236824,3.923,21.1498134,79.0820556,True
+Delhi,DL,Delhi,NCR,verified,True,,22.25,47365,1.027,236824,5.135,28.6664535,77.2169781,True
+Gurugram (NCR),HR,Gurugram,NCR,verified,True,,22.25,47365,1.027,236824,5.135,28.4646148,77.0299194,True
+Kolkata,WB,Kolkata,Kolkata,verified,True,,23.5,47365,1.085,236824,5.423,22.5726459,88.3638953,True
+Chennai,TN,Chennai,Chennai,verified,True,,23.25,47365,1.073,236824,5.365,13.0800915,80.2807978,True
+Coimbatore,TN,Coimbatore,Coimbatore,verified,False,,19.5,47365,0.9,236824,4.5,11.0018115,76.9628425,True
+Bengaluru,KA,Bengaluru,Bengaluru,verified,True,,26.0,47365,1.2,236824,6.0,12.9767936,77.590082,True
+Hyderabad,TG,Hyderabad,Hyderabad,verified,True,,24.0,47365,1.108,236824,5.539,17.360589,78.4740613,True
+Ahmedabad,GJ,Ahmedabad,Ahmedabad,verified,True,,19.5,47365,0.9,236824,4.5,23.0215374,72.5800568,True
+Surat,GJ,Surat,Surat,verified,False,,24.75,47365,1.142,236824,5.712,21.2094892,72.8317058,True
+Vadodara,GJ,Vadodara,Vadodara,verified,False,,24.0,47365,1.108,236824,5.539,22.2973142,73.1942567,True
+Vapi,GJ,Vapi,Vapi,verified,False,,23.5,47365,1.085,236824,5.423,20.3735482,72.9084376,True
+Jaipur,RJ,Jaipur,Jaipur,verified,True,,22.0,47365,1.015,236824,5.077,26.9154576,75.8189817,True
+Lucknow,UP,Lucknow,Lucknow,verified,True,,21.5,47365,0.992,236824,4.962,26.8381,80.9346001,True
+Indore,MP,Indore,Indore,verified,True,,24.5,47365,1.131,236824,5.654,22.7203616,75.8681996,True
+Patna,BR,Patna,Patna,verified,True,,20.25,47365,0.935,236824,4.673,25.6093239,85.1235252,True
+Ludhiana,PB,Ludhiana,Ludhiana,verified,True,,20.5,47365,0.946,236824,4.731,30.9090157,75.851601,True
+Ambala-Rajpura,PB,Rajpura,Ambala-Rajpura,verified,False,,17.0,47365,0.785,236824,3.923,30.4776857,76.5937658,True
+Bhubaneswar,OD,Bhubaneswar,Bhubaneswar,verified,False,,22.0,47365,1.015,236824,5.077,20.2602964,85.8394521,True
+Guwahati,AS,Guwahati,Guwahati,verified,False,,20.5,47365,0.946,236824,4.731,26.1805978,91.753943,True
+Kochi,KL,Kochi,Coimbatore,proxy,True,No Knight Frank rent table for this state; rent borrowed from nearest covered market (Coimbatore),19.5,47365,0.9,236824,4.5,9.9679032,76.2444378,True
+Vijayawada,AP,Vijayawada,Hyderabad,proxy,True,No Knight Frank rent table for this state; rent borrowed from nearest covered market (Hyderabad),24.0,47365,1.108,236824,5.539,16.5115306,80.6160469,True
+Ranchi,JH,Ranchi,Patna,proxy,True,No Knight Frank rent table for this state; rent borrowed from nearest covered market (Patna),20.25,47365,0.935,236824,4.673,23.3700501,85.3250387,True
+Raipur,CG,Raipur,Nagpur,proxy,True,No Knight Frank rent table for this state; rent borrowed from nearest covered market (Nagpur),17.0,47365,0.785,236824,3.923,21.2380912,81.6336993,True
+Srinagar,JK,Srinagar,Ludhiana,proxy,True,No Knight Frank rent table for this state; rent borrowed from nearest covered market (Ludhiana),20.5,47365,0.946,236824,4.731,34.0747444,74.8204443,True

@@ -1,0 +1,5 @@
+network,normal_cost_excl_overhead_cr,avg_increase_pct,worst_increase_pct,worst_avg_km,worst_dc
+Pre-GST (18 DCs),55.2,5.16,30.47,170.08,Mumbai (Bhiwandi)
+Post-GST ₹0 cr (21 DCs),40.0,6.84,24.99,92.63,Delhi
+Post-GST ₹0.5 cr (17 DCs),41.02,9.45,24.37,109.29,Delhi
+Post-GST ₹2 cr (11 DCs),47.92,21.05,58.79,211.48,Kolkata
